@@ -2,7 +2,7 @@
 title: "GVPT200: International Political Relations"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2025-summer-teaching-1
 venue: "University of Maryland, Government and Politics"
 date: 2025-07-014
 ---
