@@ -11,5 +11,5 @@ The course introduced students to core concepts in the field, including statehoo
 To bridge theory and practice, I incorporated interactive simulations that placed students in the role of decision-makers, allowing them to experience firsthand the dynamics of the prisoner’s dilemma, the challenges of collective action, and the complexities of conflict negotiation. 
 These activities encouraged students to connect abstract theories to real-world political challenges, while developing analytical and collaborative skills.
 
-Find my syllabus for the course here: <a href="_International Political Relations Syllabus (5).pdf">syllabus</a>
+Find my syllabus for the course here:<a href="../files/_International Political Relations Syllabus (5).pdf">syllabus</a> 
 
