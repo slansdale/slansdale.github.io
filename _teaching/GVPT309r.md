@@ -13,4 +13,4 @@ treaties and bodies under the UN umbrella. The course will also discuss how thes
 between states as well as domestically. Students will leave the course with the ability to identify and assess the
 efficacy of current international efforts to promote human rights through international organizations. Taught Asynchronously Summer 2024.
 
-Find my syllabus for this course here : <a href="GVPT309Lansdale.pdf">ok</a>
+Find my syllabus for this course here : <a href="GVPT309Lansdale.pdf">syllabus</a>
