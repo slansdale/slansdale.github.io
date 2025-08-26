@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2025-summer-teaching-1
 venue: "University of Maryland, Government and Politics"
-date: 2025-07-014
+date: 2025-07-14
 ---
 I taught an introductory International Relations course synchronously online in Summer 2025. 
 The course introduced students to core concepts in the field, including statehood, anarchy, security dilemmas, and the foundations of game theory, while also engaging with contemporary issues such as climate politics, international institutions, and the return of great power rivalry. 
