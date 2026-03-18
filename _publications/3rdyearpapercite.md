@@ -10,6 +10,6 @@ layout: archive
 title: "Putting Mass Atrocities on the Agenda"
 permalink: /research/
 author_profile: true
-<object data="../files/Lansdale_Putting_Mass_Atrocities_on_the_Agenda_21326 (1).pdf" width="1000" height="1000" type='application/pdf'></object>
----
+<a href="../files/Lansdale_Putting_Mass_Atrocities_on_the_Agenda_21326 (1).pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+--
 
