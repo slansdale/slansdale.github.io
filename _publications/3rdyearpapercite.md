@@ -6,10 +6,6 @@ excerpt: 'Under what conditions can we expect the United Nations Security Counci
 date: 2025-02-24
 venue: 'ISA-Workshop on atrocity prevention strategies and tools'
 ---
-layout: archive
-title: "Putting Mass Atrocities on the Agenda"
-permalink: /research/
-author_profile: true
-<a href="../files/Lansdale_Putting_Mass_Atrocities_on_the_Agenda_21326 (1).pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
 --
 
