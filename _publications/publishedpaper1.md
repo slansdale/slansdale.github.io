@@ -8,5 +8,5 @@ venue: 'International Studies Quarterly'
 citation: 'Lugg, A., Lansdale, S., & Carcelli, S. (2024). The Politics of International Peace and Security: Introducing a New Dataset on the Creation of United Nations Security Council Subsidiary Bodies. International Studies Quarterly, 68(2), sqae060.'
 Googlescholarurl: '(https://scholar.google.com/citations?user=I_ZvR98AAAAJ&hl=en&oi=ao)'
 ---
+Find the paper [here](https://academic.oup.com/isq/article-abstract/68/2/sqae060/7646472)
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
